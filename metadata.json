@@ -1,0 +1,5 @@
+{
+  "name": "AI 字幕產生器",
+  "description": "上傳音訊或影片檔案，使用 Gemini 自動產生並格式化為 SRT 格式的字幕。此應用程式提供複製或下載產生的 SRT 檔案的選項。",
+  "requestFramePermissions": []
+}
